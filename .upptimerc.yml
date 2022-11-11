@@ -11,6 +11,8 @@ sites:
     
   - name: Mirea Ninja Identity
     url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/ninja_auth
+    expectedStatusCodes:
+      - 400
     
   - name: Mirea Ninja Map
     url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/ninja_map
