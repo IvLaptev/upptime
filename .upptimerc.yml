@@ -26,6 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Laptev Uptime
+  theme: night
   introTitle: "**These** services are intresting."
   introMessage: ""
   navbar:
