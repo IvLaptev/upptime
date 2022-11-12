@@ -1,7 +1,7 @@
 url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/ninja_auth
-status: up
-code: 400
-responseTime: 380
-lastUpdated: 2022-11-12T03:21:20.063Z
+status: down
+code: 502
+responseTime: 3642
+lastUpdated: 2022-11-12T14:10:55.427Z
 startTime: Fri Nov 11 2022 18:24:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
