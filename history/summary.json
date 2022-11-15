@@ -58,17 +58,17 @@
     "url": "https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/ninja_map",
     "icon": "https://icons.duckduckgo.com/ip3/d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net.ico",
     "slug": "mirea-ninja-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 269,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "time": 469,
+    "timeDay": 1723,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   }
 ]
