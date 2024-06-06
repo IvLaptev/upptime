@@ -1,7 +1,7 @@
 url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/vika
-status: down
-code: 503
-responseTime: 7240
-lastUpdated: 2024-06-06T11:45:15.615Z
+status: up
+code: 200
+responseTime: 2445
+lastUpdated: 2024-06-06T12:11:57.462Z
 startTime: 2022-11-11T18:24:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
