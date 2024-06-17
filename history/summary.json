@@ -4,7 +4,7 @@
     "url": "https://laptev.dev",
     "icon": "https://icons.duckduckgo.com/ip3/laptev.dev.ico",
     "slug": "laptev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 2431,
     "timeDay": 2218,
     "timeWeek": 2099,
-    "timeMonth": 2371,
+    "timeMonth": 2312,
     "timeYear": 2366,
     "dailyMinutesDown": {}
   },
