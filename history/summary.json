@@ -32,7 +32,7 @@
     "timeDay": 2799,
     "timeWeek": 2417,
     "timeMonth": 2190,
-    "timeYear": 2379,
+    "timeYear": 2374,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/ninja_auth",
     "icon": "https://icons.duckduckgo.com/ip3/d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net.ico",
     "slug": "mirea-ninja-identity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 293,
-    "timeWeek": 326,
-    "timeMonth": 297,
-    "timeYear": 400,
+    "time": 397,
+    "timeDay": 1751,
+    "timeWeek": 686,
+    "timeMonth": 391,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
