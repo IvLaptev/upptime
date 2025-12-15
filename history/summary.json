@@ -22,17 +22,17 @@
     "url": "https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/vika",
     "icon": "https://icons.duckduckgo.com/ip3/d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net.ico",
     "slug": "vika",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2343,
-    "timeDay": 2129,
-    "timeWeek": 2099,
-    "timeMonth": 2653,
-    "timeYear": 2246,
+    "time": 2338,
+    "timeDay": 1779,
+    "timeWeek": 2015,
+    "timeMonth": 2630,
+    "timeYear": 2244,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 3271,
     "timeWeek": 3259,
     "timeMonth": 3241,
-    "timeYear": 1498,
+    "timeYear": 1501,
     "dailyMinutesDown": {}
   },
   {
