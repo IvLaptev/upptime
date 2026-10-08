@@ -4,7 +4,7 @@
     "url": "https://laptev.dev",
     "icon": "https://icons.duckduckgo.com/ip3/laptev.dev.ico",
     "slug": "laptev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,8 +13,8 @@
     "time": 1346,
     "timeDay": 1337,
     "timeWeek": 1293,
-    "timeMonth": 1378,
-    "timeYear": 1325,
+    "timeMonth": 1376,
+    "timeYear": 1324,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 688,
     "timeWeek": 649,
     "timeMonth": 700,
-    "timeYear": 1847,
+    "timeYear": 1845,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "time": 2326,
     "timeDay": 655,
     "timeWeek": 578,
-    "timeMonth": 660,
-    "timeYear": 2435,
+    "timeMonth": 652,
+    "timeYear": 2433,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 647,
     "timeDay": 678,
     "timeWeek": 615,
-    "timeMonth": 654,
+    "timeMonth": 647,
     "timeYear": 701,
     "dailyMinutesDown": {}
   }
